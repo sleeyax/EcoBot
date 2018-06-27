@@ -29,5 +29,8 @@ Same as above, but keeps repeating the same list over and over again until you a
 `python ecobot.py -l wordlist.txt --destroy session --save unicorn`<br>
 By default, your current session is saved with the name 'session'. This command will delete your previous session, start again from scratch and save it with a new name 'unicorn'.<br>
 
+## Requirements
+Requests module:<br>`pip install requests`
+
 ## Note
 This program is not affiliated with Ecosia. Do not use this program as a tool for 'DoS' attacks or any other malicious stuff. The server will probably disconnect you if it receives too many requests anyways.

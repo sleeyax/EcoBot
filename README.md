@@ -3,7 +3,7 @@ Ecosia is a search engine which uses profit to plant trees (go check it out at [
 This is all cool and stuff, but we humans are lazy. So why don't we let computers lend a hand (or keyboard)? That's where this bot comes in. From now on you can help making the world a better place by doing absolutely nothing!
 
 ## Help
-```python
+```
 > python ecobot.py --help
 usage: ecobot.py [-h] -l [L] [-v] [--loop] [--save [SAVE]] [--load [LOAD]]
                  [--destroy [DESTROY]] [--nosave]
